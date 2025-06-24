@@ -1,4 +1,4 @@
-# VerveBridge_Analyzing-Bird-Strikes-in-USA-between-2000-2011
+# Analyzing-Bird-Strikes-in-USA-between-2000-2011
 Data Visualization of Bird Strikes between 2000 – 2011 in USA using Power BI.
 
 1.1 Visuals Depicting the Number of Bird Strikes:
